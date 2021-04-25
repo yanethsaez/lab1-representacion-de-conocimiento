@@ -7,7 +7,7 @@ import imutils
 import csv #agregada para generar el csv
 import datetime #la usamos solo para generar un nombre de archivo unico
 
-video_size = 700, 500
+video_size = 700, 700
 
 def key_action():
     #["B", "A", "MODE", "START", "UP", "DOWN", "LEFT", "RIGHT", "C", "Y", "X", "Z"]
